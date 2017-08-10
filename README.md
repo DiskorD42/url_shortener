@@ -1,2 +1,1 @@
-# url_shortener
-basejump api for freecodecamp
+# Backend Challenges boilerplate - package.json
